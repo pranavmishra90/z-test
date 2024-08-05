@@ -5,8 +5,10 @@ authors:
   - family-names: Mishra
     given-names: Pranav Kumar
     orcid: https://orcid.org/0000-0001-5219-6269
+
+  - name: "Test group authorship"
 title: "Zenodo Test"
-version: 0.0.3
+version: 0.0.4
 identifiers:
   - type: doi
     value: 10.5281/zenodo.13225370
