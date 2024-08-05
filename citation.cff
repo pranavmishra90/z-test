@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "This is a test citation."
+abstract: "This isa test project to see how zenodo integrates with github with multi-author projects."
+authors:
+  - family-names: Mishra
+    given-names: Pranav Kumar
+    orcid: https://orcid.org/0000-0001-5219-6269
+title: "Zenodo Test"
+version: 0.0.3
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13225370
+date-released: 2024-08-05
+license: MIT
+repository-code: "https://github.com/pranavmishra90/z-test"
